@@ -22,6 +22,17 @@ export function Post() {
 
       <div className={styles.content}>
         <p>Fala galera acabei de subir mais um projeto no meu portfolio.</p>
+        <p>
+          {"  "}
+          <a href="">jane.design/doctorcare</a>
+        </p>
+        <p>
+          <a href="">#novoprojeto</a>
+          {"  "}
+          <a href="">#nlw</a>
+          {"  "}
+          <a href="">#rocketeseat</a>
+        </p>
       </div>
     </article>
   );
